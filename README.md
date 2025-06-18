@@ -25,5 +25,5 @@
 - UI/UX Design
 - Blogging & Technical Writing
 
-[![GitHub stats](https://github.com/shubham4956/Shubhamkpy/main/README.md)](https://github.com/shubham4956)
+[![GitHub stats](https://github.com/shubham4956/Shubhamkpy/blob/main/README.md)](https://github.com/shubham4956)
 
